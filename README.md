@@ -3,7 +3,6 @@ This is an employee management system built with React.js, Tailwind CSS, and Jav
 
 ## Features
 
-
 ## Technologies Used
 * Frontend: React.js, Tailwind CSS
 * JavaScript
