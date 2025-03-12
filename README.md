@@ -7,4 +7,3 @@ This is an employee management system built with React.js, Tailwind CSS, and Jav
 * Employee dashboard for viewing assigned tasks
 
 ## Technologies Used
-
