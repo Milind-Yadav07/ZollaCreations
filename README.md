@@ -2,7 +2,7 @@
 
 Zolla Creations is a multi-disciplinary frontend web project showcasing a interior designs on designing unique, immersive environments and experiences. The project is a visually rich, modern website built with HTML, CSS, and JavaScript, featuring smooth scrolling, animated elements, and interactive image sliders.
 
-![Image 3](assets/images/zolla project image.jpg)
+![zolla project image](assets/images/zolla project image.png)
 
 ## Project Overview
 
