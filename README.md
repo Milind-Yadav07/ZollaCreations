@@ -9,7 +9,7 @@ Zolla Creations is a multi-disciplinary frontend web project showcasing a interi
 
 <br>
 
-<h3> <a href="https://zolla-creations.netlify.app/">Visit</a> </h3>
+<h1> <a href="https://zolla-creations.netlify.app/">Visit</a> </h1>
 
 ## Project Overview
 
