@@ -4,6 +4,7 @@ Zolla Creations is a multi-disciplinary frontend web project showcasing a interi
 
 <br>
 <br>
+
 ![Zolla Creations Image](assets/images/zolla%20project%20image.png)
 
 ## Project Overview
